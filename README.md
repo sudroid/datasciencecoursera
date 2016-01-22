@@ -1,4 +1,2 @@
-# test-repo
-
-This is a test to refresh my git knowledge!
+# Data Science - Data Scientist's Toolkit Repo
 
